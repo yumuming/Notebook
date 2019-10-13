@@ -13,3 +13,5 @@
 5、安装代码编辑器，[Visual Studio](https://visualstudio.microsoft.com/zh-hans/vs/community/) 或 [Visual Studio Code](https://code.visualstudio.com/),Mac 系统下需要安装[mono](https://www.mono-project.com/),用来支持.Net的跨平台运行；不同版本的Unity生成的项目需要安装对应版本的[.NetFramework](https://dotnet.microsoft.com/download/dotnet-framework),版本信息可查看项目文件夹下Assembly-CSharp.csproj![文件的配置](images/UnityInstall/dotNetFrameworkVersion.png)
 
 6、安装 Visual Studio Code 下插件，C#、Debugger for Unity,如果在编辑器下没有联想提示，请安装步骤5中对应.NetFramework。
+
+7、在Preferences界面，更换 Unity 脚本编辑器，![img3](images/UnityInstall/UnityChangeScriptEditor.png)
