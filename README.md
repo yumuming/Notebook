@@ -1,2 +1,3 @@
 # 笔记
-github token ：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
+github token ：
+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
